@@ -1,6 +1,7 @@
 section {
     display: flex;
-    align-items: space-around 
+    align-items: space-around;
+    gap: 3em
   }
   
   section .weather {
@@ -12,4 +13,9 @@ section {
   
   .weather span {
     font-weight: bold;
+  }
+
+  div {
+    border-radius: 20px;
+    border: 2px solid black
   }

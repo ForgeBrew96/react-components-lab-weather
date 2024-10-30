@@ -3,6 +3,12 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.699), rgba(32, 180, 173, 0.582));
+  font-weight: 200px; 
+}
+
+body{
+  background: radial-gradient(circle, rgb(128, 128, 128), rgba(255, 255, 255, 0.699), rgba(0, 0, 0, 0.582))
 }
 
 .logo {
